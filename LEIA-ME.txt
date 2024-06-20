@@ -1,0 +1,17 @@
+Olá!
+
+Caso queiram testar o projeto em seus banco de dados, basta acessar o arquivo ConexaoBanco.cs, alterar as variáveis para o banco do MySql de vocês e criar os campos utilizados no no novo database!
+
+
+
+Gostaria também de agradecer pela oportunida que me foi dada. Foi uma experiência única fazer um projeto desse do zero!
+
+Por mais que possam haver alguns erros, sinto que aprendi um pouco do básico de C# e estarei pronto para ingressar nesta nova etapa, caso seja da vontade da TechsLab.
+
+Tenham uma excelente sexta e um excelente final de semana e fico no aguardo do retorno.
+
+
+Atenciosamente,
+
+
+Daniel Aguilar.
